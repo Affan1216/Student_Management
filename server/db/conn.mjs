@@ -12,6 +12,6 @@ try{
     process.exit(1)
 }
 
-const db = conn.db('cca');
+const db = conn.db('Student Management');
 
 export default db;
